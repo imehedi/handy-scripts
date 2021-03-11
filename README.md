@@ -1,2 +1,2 @@
 # handy-scripts
-a collection of scripts/libraries i use/d 
+A collection of scripts/libraries i use/d 
